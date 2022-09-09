@@ -1,0 +1,15 @@
+Index: 2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/2.py b/2.py
+new file mode 100644
+--- /dev/null	(date 1662719170725)
++++ b/2.py	(date 1662719170725)
+@@ -0,0 +1,5 @@
++# _*_ coding: utf-8 _*_
++"""
++@time : 2022.09.09:  6:25 PM
++@author : wkb
++"""
